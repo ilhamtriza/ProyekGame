@@ -51,8 +51,8 @@ int scr = 0,lv = 5,trs = 8;
 
 int main() {
 	
-	
-	
+	//coba1
+	//coba
 	initwindow(kotakmenu*klm,kotakmenu*brs,"Test");
 	loading();
 	Menu(map);
