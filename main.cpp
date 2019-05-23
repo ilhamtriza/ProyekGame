@@ -51,7 +51,11 @@ int scr = 0,lv = 5,trs = 8;
 
 int main() {
 	
+<<<<<<< HEAD
 	
+=======
+	//coba1
+>>>>>>> master
 	//coba
 	initwindow(kotakmenu*klm,kotakmenu*brs,"Test");
 	loading();
